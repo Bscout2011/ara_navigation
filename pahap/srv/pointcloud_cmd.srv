@@ -1,6 +1,0 @@
-bool cmd
-bool topic
-string  path
-string num_name
----
-geometry_msgs/Pose planePose
